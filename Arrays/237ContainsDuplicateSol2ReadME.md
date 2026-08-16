@@ -15,4 +15,4 @@ So what is a set?
 
 # So, we simply use the approach that if it is in the set --> we say hey! there's a repetition and we point it out.
 
-# Otherwise , we leave it till the end
+# Otherwise , we append and  leave it till the end
